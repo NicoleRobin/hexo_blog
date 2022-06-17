@@ -426,20 +426,19 @@ pangu: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname: 
+  enable: true
+  shortname: nicolerobin
   count: true
-  lazyload: false
+  lazyload: true
 
 # Hypercomments
 #hypercomments_id:
 
 # changyan
 changyan:
-  enable: true
+  enable: false
   appid: cytFmnG7h
   appkey: a38697e70df27d911968a5816e64be8c
-
 
 # Valine.
 # You can get your appid and appkey from https://leancloud.cn
@@ -528,7 +527,7 @@ needmoreshare2:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-232350570-1
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster/
